@@ -25,3 +25,9 @@
 - 자신의 credential을 가지고 cloud image를 upload하고,
 - public timeline에서는 upload한 image들을 시간 순으로 나열해서 확인할 수 있습니다.
   - view에 대한 spec은 따로 하지 않지만, image, uploaded time, writer 정도는 노출해야 합니다.
+
+### 2주차
+
+진행도가 미비하여 묻어갑니다.
+
+- user timeline에서는 user별로 upload한 image들을 시간 순으로 나열해서 확인할 수 있습니다.
