@@ -31,3 +31,7 @@
 진행도가 미비하여 묻어갑니다.
 
 - user timeline에서는 user별로 upload한 image들을 시간 순으로 나열해서 확인할 수 있습니다.
+
+### 3주차
+
+- image에 description을 추가할 수 있도록 합니다.
